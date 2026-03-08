@@ -1,0 +1,68 @@
+Requirements for Fake Certificate Detection Using Deep Learning
+Overview
+
+This project detects fake certificates using deep learning techniques. The system analyzes certificate images and identifies whether they are genuine or forged by learning visual patterns such as fonts, logos, seals, and layout structures. The model uses MobileNetV2 to classify certificates as real or fake.
+
+Technologies Used
+
+Python
+
+TensorFlow / Keras
+
+MobileNetV2
+
+OpenCV
+
+NumPy
+
+pdf2image
+
+Scikit-learn
+
+Matplotlib
+
+Hardware Requirements
+
+Processor: Intel i7 / AMD Ryzen 7 or above
+
+RAM: 16 GB or higher
+
+Storage: 500 GB SSD (for datasets and models)
+
+GPU: NVIDIA GTX / RTX series with 6–8 GB VRAM (e.g., RTX 3060 / 3070)
+
+Additional: CUDA support for GPU acceleration
+
+Software Requirements
+Operating System
+
+Windows 10 / 11 (64-bit)
+
+OR Linux (Ubuntu recommended)
+
+Programming Language
+
+Python 3.x
+
+Deep Learning Frameworks
+
+TensorFlow / Keras
+
+OR PyTorch
+
+Libraries & Tools
+
+NumPy, Pandas (data handling)
+
+Matplotlib / Seaborn (visualization)
+
+Scikit-learn (evaluation metrics, preprocessing)
+
+Development Tools
+
+Jupyter Notebook
+
+Google Colab
+
+PyCharm / VS Code
+
