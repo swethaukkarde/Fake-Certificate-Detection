@@ -21,11 +21,17 @@ Project Structure
 Fake-Certificate-Detection
 │
 ├── src/
+
 ├── docs/
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── architecture.png
+
 ├── demo_video_link.txt
+
 └── setup_instructions.md
 How It Works
 
