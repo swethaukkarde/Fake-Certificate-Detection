@@ -19,7 +19,8 @@ pdf2image
 
 Project Structure
 Fake-Certificate-Detection
-│
+
+
 ├── src/
 
 ├── docs/
