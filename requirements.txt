@@ -3,7 +3,6 @@ opencv-python-headless
 numpy
 pillow
 easyocr
-tensorflow
-keras
+tensorflow-cpu
 beautifulsoup4
 requests
